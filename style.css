@@ -1,0 +1,75 @@
+.logo{
+    position: relative;
+    text-align: center;
+    
+    
+}
+#MyExperiance{
+    color:rgb(5,5,5);
+}
+#Events{
+    color:rgb(5,5,5);
+}
+#Location{
+    color:rgb(5,5,5);
+}
+#gallery{
+    color:rgb(5,5,5);
+}
+body{
+    background-color : floralwhite;
+
+}
+.box{
+    
+    width: 370px;
+    background-color:#d4b7bd;
+    padding-left: 40px;
+    padding-right: 5px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-left: 750px;
+}
+.grid{
+    display: flex;
+    width: 700px;
+    background-color: #05445E;
+    padding-left: 30px;
+    padding-right: 5px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-left: 60px;
+}
+.grid1{
+    display: flex;
+    width: 700px;
+    background-color: #ffb347;
+    padding-left: 30px;
+    padding-right: 15px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-left: 980px;
+    margin-top: 15px;
+}
+.grid2{
+    display: flex;
+    width: 700px;
+    background-color: #77dd77;
+    padding-left: 30px;
+    padding-right: 15px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-left: 820px;
+    margin: auto;
+}
+.img {
+    text-align: center;
+    background-color:#a8c1c8 ;
+    border: solid;
+    border-color:#a8d5baff ;
+    border-width: 30px;
+}
+.gallery{
+    color: ivory;
+    
+}
